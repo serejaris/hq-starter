@@ -53,6 +53,8 @@ hq-starter/
 ├── projects/          ← по файлу на каждый длинный проект
 │   └── example.md
 └── prompts/           ← готовые промпты для заполнения
-    ├── hq-bootstrap.md
-    └── gh-setup.md
+    ├── hq-bootstrap.md       ← собрать HQ через 5 вопросов
+    ├── gh-setup.md           ← поставить gh CLI и залогиниться в GitHub
+    ├── yc-rfs-match.md       ← сматчить HQ с YC Requests for Startups
+    └── yc-rfs-prd-landings.md ← из совпадений собрать PRD и лендинги
 ```
